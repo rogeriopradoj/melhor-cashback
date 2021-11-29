@@ -1,0 +1,6 @@
+{
+    "lojas": [
+        {"id": "amazon", "url": "https://www.amazon.com.br?&_encoding=UTF8&tag=rogeriopradoj-20&linkCode=ur2&linkId=0a9f618783b8991bf6252c8e0d0d5348&camp=1789&creative=9325"},
+        {"id": "aliexpress", "url": "https://aliexpress.com/"}
+    ]
+}
