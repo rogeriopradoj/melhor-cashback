@@ -1,0 +1,12 @@
+{
+    "cashbacks": [
+        {
+            "amazon": [
+                {"id": "meliuz", "url": "https://www.meliuz.com.br/desconto/amazon"},
+                {"id": "inter_shop", "url": "https://shopping.bancointer.com.br/parceiro/ee86e624-5535-41a9-b9d3-a2562e00812d/amazon/"},
+                {"id": "zoom", "url": "https://www.zoom.com.br/landing-page/cashback-zoom-amazon"},
+                {"id": "coingoback", "url": "https://coingoback.com/home?search=amazon"}
+            ]
+        }
+    ]
+}
